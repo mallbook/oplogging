@@ -1,5 +1,5 @@
 # oplogging
-oplogging package based on zap and lumberjack
+operation logging based on zap and lumberjack
 ## Quick Start
 
 1. Create file ./etc/conf/zap.json and config it.
